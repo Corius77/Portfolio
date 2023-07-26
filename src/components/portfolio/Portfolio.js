@@ -26,7 +26,7 @@ const Portfolio = () => {
               <a href='#' className='py-2 px-4 sm:py-5 sm:px-20 lg:py-2 lg:px-4 sm:px-5 bg-zinc-600 rounded-md transition-colors duration-300 ease-in-out hover:bg-zinc-800'>
                 <p className='text-white font-bold flex gap-2 items-center text-base sm:text-2xl lg:text-base '>Code <Github className='fill-white w-8 h-8'/></p>
               </a>
-              <a href='#' className='py-2 px-4 sm:py-5 sm:px-20 lg:py-2 lg:px-4 sm:px-5 bg-zinc-600 rounded-md transition-colors duration-300 ease-in-out hover:bg-zinc-800'>
+              <a href='https://github.com/Corius77/Portfolio' className='py-2 px-4 sm:py-5 sm:px-20 lg:py-2 lg:px-4 sm:px-5 bg-zinc-600 rounded-md transition-colors duration-300 ease-in-out hover:bg-zinc-800'>
                 <p className='text-white font-bold flex gap-2 items-center text-base sm:text-2xl lg:text-base'>Live Demo <Live className='fill-white w-8 h-8'/></p>
               </a>
             </div>
