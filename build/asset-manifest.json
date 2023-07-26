@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6653d035.css",
+    "main.js": "/static/js/main.51486af1.js",
+    "static/media/about-photo.jpg": "/static/media/about-photo.3f9b70a7f5c3c58e01d6.jpg",
+    "static/media/alpistore.png": "/static/media/alpistore.c09538ca220e634ad7dc.png",
+    "static/media/Montserrat-VariableFont_wght.ttf": "/static/media/Montserrat-VariableFont_wght.3faa3eef13649db02044.ttf",
+    "static/media/rest.png": "/static/media/rest.32a0c79c4e9493f20e6b.png",
+    "static/media/github.svg": "/static/media/github.ebd452bf402237ef25876cdcac686676.svg",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.83f494119e2a84b5a3e00aa411c0a25e.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.93683c2cc3d5ca884dcf6c3525104a48.svg",
+    "static/media/live.svg": "/static/media/live.4ce1c57b94f9118a19a13d4a73150bfb.svg",
+    "static/media/envelope-regular.svg": "/static/media/envelope-regular.7df8d589eacd0a7f40f5685b6e551065.svg",
+    "static/media/bars.svg": "/static/media/bars.72d2725d8eca5358736a1e45d355d346.svg",
+    "index.html": "/index.html",
+    "main.6653d035.css.map": "/static/css/main.6653d035.css.map",
+    "main.51486af1.js.map": "/static/js/main.51486af1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6653d035.css",
+    "static/js/main.51486af1.js"
+  ]
+}
